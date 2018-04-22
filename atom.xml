@@ -39,6 +39,24 @@ https://www.slideshare.net/cremacrema/ss-93090340
     </item>
     
     <item>
+      <title>Hugo memo</title>
+      <link>https://note.mersy418.com/article/my-first-post.html</link>
+      <pubDate>Sun, 15 Apr 2018 11:33:25 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/my-first-post.html</guid>
+      <description>サンプルです。
+Quick Start | Hugo
+https://gohugo.io/getting-started/quick-start/
+の通りに進める。
+ブログを hexo から hugo に変更した
+https://harasou.jp/2017/11/23/change-hugo-from-hexo/
+Hugoに移行
+https://parakeety.github.io/hugo-blog/posts/hugo/
+forestry.ioでHugoブログにCMS機能を一瞬で追加した - ぴよログ
+https://blog.piyo.tech/posts/2018-04-10-forestry-cms/</description>
+    </item>
+    
+    <item>
       <title>橋本さんのトーク力がすごいなと思った</title>
       <link>https://note.mersy418.com/article/blog-talking.html</link>
       <pubDate>Sun, 15 Apr 2018 07:00:00 +0900</pubDate>
