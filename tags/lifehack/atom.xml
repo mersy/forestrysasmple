@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifehack on mersy note</title>
+    <link>https://note.mersy418.com/tags/lifehack.html</link>
+    <description>Recent content in Lifehack on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Mar 2018 13:22:18 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/lifehack/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>個人的なタスク管理にTickTickを使い始めた。</title>
+      <link>https://note.mersy418.com/article/blog-gtd-ticktick.html</link>
+      <pubDate>Fri, 30 Mar 2018 13:22:18 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-gtd-ticktick.html</guid>
+      <description>個人的なタスク管理に TickTick を使い始めた。
+ TickTick
+https://ticktick.com/
+ backlog や Asana に集約しようとしてたけど、なんかこうしっくりこないというか。
+この際だからしばらくやっていなかった GTD 的なのも見直してみようかな、、と。
+その辺で調べていたらたまた TickTick を知った感じ。
+とりあえず、色々どう使っていくか？というのを含めて自分用のメモも兼ねて書いておく。
+GTD的なプロジェクトの概念は子タスクで対応することにしておく。</description>
+    </item>
+    
+  </channel>
+</rss>

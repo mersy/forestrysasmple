@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrome on mersy note</title>
+    <link>https://note.mersy418.com/tags/chrome.html</link>
+    <description>Recent content in Chrome on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2014 16:11:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/chrome/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chrome Appsをつくってみる</title>
+      <link>https://note.mersy418.com/article/chromeapp.html</link>
+      <pubDate>Fri, 11 Jul 2014 16:11:50 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/chromeapp.html</guid>
+      <description>アプリをデバッグ アプリを右クリックでコンソールが開く
+scroll bar の表示 こんな感じで。
+html, body { overflow-y: visible; }  Chrome apps on Android and iOS Chrome appsをmobileアプリにするなんとか。</description>
+    </item>
+    
+    <item>
+      <title>Chrome Extensionをつくってみる</title>
+      <link>https://note.mersy418.com/article/chromeextension.html</link>
+      <pubDate>Tue, 24 Jun 2014 12:43:24 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/chromeextension.html</guid>
+      <description> 拡張をデバッグ 拡張をタブで開くためのURL
+ chrome-extension://&amp;lt;拡張のID&amp;gt;/popup.html
+ </description>
+    </item>
+    
+  </channel>
+</rss>

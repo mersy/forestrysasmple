@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firefox on mersy note</title>
+    <link>https://note.mersy418.com/tags/firefox.html</link>
+    <description>Recent content in Firefox on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Mar 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/firefox/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>メインブラウザを Firefox Developer Editon から Safari に切り替えてみる</title>
+      <link>https://note.mersy418.com/article/blog-which-browser.html</link>
+      <pubDate>Mon, 26 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-which-browser.html</guid>
+      <description>ここ最近の取り組みとして、起動するアプリを減らして、なるべくブラウザに寄せるようにして PC が重くならないように、、、というのを試してみたりしてる。
+使い方が悪いのかもしれないけど、すぐ Mac が重くなってしまうんだよなぁ。。。
+メール周りは諸般の事情で、 Google アカウント以外も管理する必要があったので、 MailPlane から Rambox に変更して使ってきていた。
+ Ramboxを使い始めてみた
+https://note.mersy418.com/article/use-rambox.html
+ ただ、若干メモリ食ってる感があったので、メインブラウザ（Firefox Developer Edition）に Gmail とかを開くようにしてピン留して試したりしていた。</description>
+    </item>
+    
+    <item>
+      <title>Tab Suspender を使ってみる</title>
+      <link>https://note.mersy418.com/article/blog-firefox-tabsuspend.html</link>
+      <pubDate>Wed, 07 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-firefox-tabsuspend.html</guid>
+      <description>Firefox Developer Edition をメインブラウザにしてみてます。
+ Firefox Developer Edition
+https://www.mozilla.org/ja/firefox/developer/
+ ブラウザのせいというよりは使い方なのかもしれないけれども、そこまで早いと感じることはなかったりもしつつ、Addon とかのせいなのかなぁということも考えたりしつつ、使ってます。
+チーム内はChromeが多いし、ブラウザ変えておけば勝手にブラウザチェック的にもなるかな、とか。。。
+さすがにタブ開きすぎたり、開いて放置してると重いなぁ、、、と。
+Mac自体がかなり重くなるので、ちょっと検討してみるかということで、Slack に投げたら @tinybeans は Chrome で Great Suspender というのを使っているということで似たようなのを探してみたら Tab Suspender というのがあった。</description>
+    </item>
+    
+  </channel>
+</rss>

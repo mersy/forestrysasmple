@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Route53 on mersy note</title>
+    <link>https://note.mersy418.com/tags/route53.html</link>
+    <description>Recent content in Route53 on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Dec 2017 17:05:41 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/route53/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ドメインの移管</title>
+      <link>https://note.mersy418.com/article/server201712.html</link>
+      <pubDate>Sun, 24 Dec 2017 17:05:41 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/server201712.html</guid>
+      <description>ドメインをvalue domain から Route53 へ移管する。
+メール関係周りの設定 そのドメインのメールを1つ作ってgmailに転送している。
+普段あまり使っていないので、今後はそのgmailアドレスに集約したいので、1年間は予備としてアドレスを受け取っておこうかな、と。
+転送しつつ、自動返信とかできるようにしておきたい。
+とりあえずさくらのメールボックスを契約。
+ セキュリティ対策を強化したメールサーバー専用プラン【メールボックス】
+https://www.sakura.ne.jp/mail/
+ 年額1029円なのでまぁこれで問題ないかな、と。
+→ ロリポップの契約があったのでそちらですすめる
+ロリポップに独自ドメインを追加しておき、今回用のメールアドレスを作成しておく。
+転送設定まで完了。</description>
+    </item>
+    
+    <item>
+      <title>S3をつかってみたメモ</title>
+      <link>https://note.mersy418.com/article/s3.html</link>
+      <pubDate>Thu, 24 Apr 2014 15:30:39 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/s3.html</guid>
+      <description>某ブログサービスが連日落ちてて大変だったのでサービスを移すことにした。
+そのために、エクスポートしてインポートさせようとおもったのだけど、画像ファイル類が容量オーバー。
+データ類を落としてきて、それをS3へおくことに。
+Bucketの作り方 Bucketの作り方はこの辺を読んでおけば問題なさそう。
+ Amazon Web Services ブログ: 月額10円〜 - Amazon S3でウェブサイトをホスティングする方法
+http://aws.typepad.com/aws_japan/2012/08/hosting-website-on-s3.html
+ Bucket Policy参照 { &amp;quot;Version&amp;quot;:&amp;quot;2008-10-17&amp;quot;, &amp;quot;Statement&amp;quot;:[{ &amp;quot;Sid&amp;quot;:&amp;quot;PublicReadForGetBucketObjects&amp;quot;, &amp;quot;Effect&amp;quot;:&amp;quot;Allow&amp;quot;, &amp;quot;Principal&amp;quot;: { &amp;quot;AWS&amp;quot;: &amp;quot;*&amp;quot; }, &amp;quot;Action&amp;quot;:[&amp;quot;s3:GetObject&amp;quot;], &amp;quot;Resource&amp;quot;:[&amp;quot;arn:aws:s3:::&amp;lt;$BucketName$&amp;gt;/*&amp;quot; ] } ] }  リファラ制限 諸事情でリファラ制限を掛けたかったので以下を参考にして設定。</description>
+    </item>
+    
+  </channel>
+</rss>

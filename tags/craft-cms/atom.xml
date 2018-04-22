@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craft Cms on mersy note</title>
+    <link>https://note.mersy418.com/tags/craft-cms.html</link>
+    <description>Recent content in Craft Cms on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 21:30:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/craft-cms/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Craft CMS のシステムEmailの設定</title>
+      <link>https://note.mersy418.com/article/craft-systememail.html</link>
+      <pubDate>Fri, 01 Sep 2017 21:30:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/craft-systememail.html</guid>
+      <description>知ってしまえば簡単なことなのですが。
+パスワードリマインダなどのメールアドレスの設定はどこでするのだろう、、、と設定の全般ばかりをみていたのですが、メールの所に システムのメールアドレス があります。
+こちらにセットしましょう。
+デフォルトは初期ユーザーのシステム管理者のアドレスが入る？みたいです。</description>
+    </item>
+    
+    <item>
+      <title>craft cache memo</title>
+      <link>https://note.mersy418.com/article/craft-cache.html</link>
+      <pubDate>Thu, 20 Apr 2017 20:35:10 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/craft-cache.html</guid>
+      <description>Craft CMS のキャッシュ周りがよくわからなかったのでメモ
+公式ドキュメント
+https://craftcms.com/docs/templating/cache
+{% cache %} {% for block in entry.myMatrixField %} &amp;lt;p&amp;gt;{{ block.text }}&amp;lt;/p&amp;gt; {% endfor %} {% endcache %}  キャッシュの削除 管理画面からキャッシュの削除ができる</description>
+    </item>
+    
+  </channel>
+</rss>

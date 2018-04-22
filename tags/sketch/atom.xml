@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sketch on mersy note</title>
+    <link>https://note.mersy418.com/tags/sketch.html</link>
+    <description>Recent content in Sketch on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/sketch/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sketch を使ってみる</title>
+      <link>https://note.mersy418.com/article/use-sketch.html</link>
+      <pubDate>Tue, 06 Feb 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/use-sketch.html</guid>
+      <description>Sketch
+https://www.sketchapp.com/
+持ってはいたけど、今まで特に使うことがなかった。。。
+ひとまず、このプラグインを使ってみたかったというところが大きいので触ってみている。
+ Sketch Notebook Plugin: document designs and wireframes easier. By Marcos Vidal
+https://marcosvid.al/sketch-notebook/
+ ワイヤー、デザイン、仕様書はできるだけ1つにまとめたほうがいいと思ってるので。。。</description>
+    </item>
+    
+    <item>
+      <title>CMS実装のための仕様共有方法を考える</title>
+      <link>https://note.mersy418.com/article/communication-cms.html</link>
+      <pubDate>Sun, 28 Jan 2018 14:58:01 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/communication-cms.html</guid>
+      <description>ワイヤーにコメントをつける感じのくらいが個人的にはベストだと思っているのだけれども。
+ 開発者のやりとりも捗る！プロトタイピングツール「InVision」って何？ - WPJ
+https://www.webprofessional.jp/evolution-of-prototyping-tool-invision/
+ そう考えるとPowerPointが今のところはまともなツールのようなきがしてしまう。
+いいと言えばいいのだけど、PowerPointはワイヤーを作る方の機能が若干足りない気がする。
+ DIST.18 「Sketch時代のWebデザインワークフロー」 - 勉強会メモ - Qiita
+https://qiita.com/ezawa800/items/b465180208419a96662e
+ marcosvidal/Sketch-Notebook
+https://github.com/marcosvidal/Sketch-Notebook</description>
+    </item>
+    
+  </channel>
+</rss>

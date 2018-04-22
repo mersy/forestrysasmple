@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netlify on mersy note</title>
+    <link>https://note.mersy418.com/tags/netlify.html</link>
+    <description>Recent content in Netlify on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2018 20:41:44 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/netlify/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>memo netlify cms</title>
+      <link>https://note.mersy418.com/article/netlify.html</link>
+      <pubDate>Sun, 14 Jan 2018 20:41:44 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/netlify.html</guid>
+      <description>Netlify CMS | Open-Source Content Management System
+https://www.netlifycms.org/docs/start-with-a-template/
+CMSっぽいものがあるみたいなので試してみた。
+githubのリポジトリと連携。
+Static Site Generator については GatsbyJS を選択してみた。Hugoも選択可能。
+GatsbyJS
+https://www.gatsbyjs.org/
+ボタンをポチるだけで問題なくdeployまでできてすげー、と。
+/admin/ で管理画面ぽいのもあるのでコレは便利そう。</description>
+    </item>
+    
+  </channel>
+</rss>

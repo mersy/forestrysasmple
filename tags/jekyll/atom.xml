@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on mersy note</title>
+    <link>https://note.mersy418.com/tags/jekyll.html</link>
+    <description>Recent content in Jekyll on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Oct 2013 08:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/jekyll/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>flexibleSearchをJekyll（Github Pages）で使う</title>
+      <link>https://note.mersy418.com/article/flexiblesearchonjekyll.html</link>
+      <pubDate>Fri, 18 Oct 2013 08:00:00 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/flexiblesearchonjekyll.html</guid>
+      <description>Github Pagesだと動的なことができないから、flexibleSearchをJekyllで使ってみる方法で検索部分を実装してみた
+ tinybeans/jq-plugin-flexibleSearch
+https://github.com/tinybeans/jq-plugin-flexibleSearch
+ flexibleSearchはJSONベースの検索システム。
+JSONの生成 JSONをどうやってだすんだろう？？というところでかなり時間がかかった。
+{% gist 7033839 %}
+こんなかんじで、一応エラーが出ないJSONを生成することが出来た。
+flexibleSearchの次期バージョンからitemではなくitemsになってるので要注意。
+最新版はGithubのdevelopブランチに入っている。
+flexibleSearch js部分はこんな感じで。
+{% gist 7035259 %}</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote on mersy note</title>
+    <link>https://note.mersy418.com/tags/remote.html</link>
+    <description>Recent content in Remote on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Mar 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/remote/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>案件スタート時に開発メンバーでの音声会議をやってみてもいいのかもしれない</title>
+      <link>https://note.mersy418.com/article/blog-team-kickoff-meeting.html</link>
+      <pubDate>Tue, 27 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-team-kickoff-meeting.html</guid>
+      <description>オンラインの音声会議をストレスなくやりたい | mersy note
+https://note.mersy418.com/article/blog-online-meeting-sound.html
+ を書いたら @tinybeans から「案件のスタートする前とかに、ビデオ会議とかすると良さそうと思うことがる」というフィードバックをもらった。
+なるほど、と。
+自分は打ち合わせに参加する側だから気づいてないところもありそうだけど、開発する側からだと一度そういう場を設けて、認識の統一をはかっておけると、あとあと進めやすいところはあるんだろうな。
+以前の案件では、開発入る前の MTG でリモートの開発メンバーにもオンラインで音声会議に入ってもらったりして、 MTG の状況を共有したりもしてた。
+そういった感じのことをやっておいたほうが、後々の進め方とか、判断が必要な時のジャッジがしやすくなるとかがあるのかもしれないなー。
+ リモートワークは難しい / Developer Summit 2018 // Speaker Deck</description>
+    </item>
+    
+    <item>
+      <title>テレビ会議に有効なTipsについての記事を読んだ</title>
+      <link>https://note.mersy418.com/article/blog-tips-online-tvmeeting.html</link>
+      <pubDate>Sun, 25 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-tips-online-tvmeeting.html</guid>
+      <description>オンラインの音声会議をストレスなくやりたい | mersy note
+https://note.mersy418.com/article/blog-online-meeting-sound.html
+ 昨日こんなことを書いてたら、参考になるテレビ会議のブログ記事を見つけた。
+ テレビ会議を劇的に円滑にする簡単なノウハウ | Social Change!
+https://kuranuki.sonicgarden.jp/2018/03/tv-meeting.html
+ 普段やるときはあまり映像まで繋いでやってないんだけど、顔が見えてる方が伝わることもあるわけだしなぁ。
+んで、
+ マイク付きイヤホンを使うこと
+ これは確かにそうだなと思うから、できる限りそういうのを各自用意してやるようにしてもいいんだろうな。</description>
+    </item>
+    
+    <item>
+      <title>オンラインの音声会議をストレスなくやりたい</title>
+      <link>https://note.mersy418.com/article/blog-online-meeting-sound.html</link>
+      <pubDate>Sat, 24 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-online-meeting-sound.html</guid>
+      <description>オンラインで会議をする時の音声が聞こえにくかったり、途切れたりする問題。
+ビデオ繋ぐと重くなるだろうから、基本は音声に誰かの画面共有を共有するくらいでとりあえずはいいんだけど。
+顔が見えた方が色々伝わるものもあったりはしそう。
+マイクやスピーカーを置くことで解消することもありそう。
+ネットの回線だったり、社内ネットワークだったり。
+人数が複数対複数であればさらに難しさが増しそう。
+自分とこのネットワーク、PCとか環境がよくないのかなー、と思うこともあるくらいストレスに思うこともあったり。
+Macが重くなってると回線とか以前にマシンが反応悪くなるからそれはそれで別な問題だろうけど。
+そもそも、お互いにどのようなクオリティで聞こえているか？というのがわからないだけに難しい問題な気もする。
+リモートでやる以上は最低限の設備は整えておかないとだなー。
+使うツール ツールとしてはSkypeがまぁまぁいいのかな、という気はする。
+appear.in とか slack call でもまぁいいのだけど。
+ appear.in – one click video conversations</description>
+    </item>
+    
+  </channel>
+</rss>

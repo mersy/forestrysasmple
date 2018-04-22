@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centos on mersy note</title>
+    <link>https://note.mersy418.com/tags/centos.html</link>
+    <description>Recent content in Centos on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2014 18:21:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/centos/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vagrant memo</title>
+      <link>https://note.mersy418.com/article/vagrant.html</link>
+      <pubDate>Thu, 08 May 2014 18:21:03 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/vagrant.html</guid>
+      <description>Vagrant に限らず。。。環境構築関係メモ。
+ Vagrant
+http://www.vagrantup.com/
+ Vagrant Cloud
+https://vagrantcloud.com/
+ Discover Featured Vagrant Boxes
+https://vagrantcloud.com/discover/featured
+  IPが割り振れないとき VagrantでIPが割り振れないときは、vagrant ssh してる時に</description>
+    </item>
+    
+  </channel>
+</rss>

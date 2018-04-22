@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mail on mersy note</title>
+    <link>https://note.mersy418.com/tags/mail.html</link>
+    <description>Recent content in Mail on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2018 14:32:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/mail/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ramboxを使い始めてみた</title>
+      <link>https://note.mersy418.com/article/use-rambox.html</link>
+      <pubDate>Sat, 27 Jan 2018 14:32:47 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/use-rambox.html</guid>
+      <description>ちょっと必要があってRamboxを使い始めてみた。
+ Rambox
+http://rambox.pro/
+ 似たようなツールはいくつかあって知ってはいたけど、使ったことはなかった。
+これまでメールとカレンダーはGoogle関係のみだったので、MailPlane をずっと使い続けていた。
+単にこれはなれでしかなくて、他のツールでもいいんだけど。
+今回Googleではなく、Office 365 のアカウント？アウトルックのアカウントのメールを受け取る必要があり、Webメールを常に見るのはちょっと面倒だな、と思ったので常時開いているメール関係のアプリに集約したかったというのがあり。
+常時開いているアプリなので見落としも減るだろうな、と。
+Rambox に Slack も入れてみたけど、Cmd + F で検索が動かないとか基本的なところがきになるので、 Slack はこれまで通り標準のアプリで動かしておくことにする。</description>
+    </item>
+    
+  </channel>
+</rss>

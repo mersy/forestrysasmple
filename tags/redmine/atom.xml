@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redmine on mersy note</title>
+    <link>https://note.mersy418.com/tags/redmine.html</link>
+    <description>Recent content in Redmine on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Apr 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/redmine/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>チケット管理のルール、チケットの掃除屋さん</title>
+      <link>https://note.mersy418.com/article/blog-issue-rule.html</link>
+      <pubDate>Mon, 16 Apr 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-issue-rule.html</guid>
+      <description>cremaさんがセミナー？で話されてたスライドを拝見した。
+ フリーランスが出会う“現場のタスク管理法あれこれ”
+https://www.slideshare.net/cremacrema/ss-93090340
+ やっぱチケットのクローズルールとか整理とかしないとだよなー。
+やろうやろうやろう。。。。
+お客さんもどういう風に使うのかある程度指針があったほうがいいんだろうしな。</description>
+    </item>
+    
+    <item>
+      <title>ドキュメントをGit管理にするかWikiにするか</title>
+      <link>https://note.mersy418.com/article/document-git-wiki.html</link>
+      <pubDate>Sun, 31 Dec 2017 13:39:35 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/document-git-wiki.html</guid>
+      <description>実装に関係しそうなドキュメント類はMarkdownかasciidocとかで管理するか、BacklogやRedmineとかのWikiで管理するのがいいんじゃないか、、、、とは思っているのだけれども。
+gitbookで設計書を作成したら最高だった話 - フォトシンス エンジニアブログ
+http://akerun.hateblo.jp/entry/2017/12/26/110102
+脱Word、脱Markdown、asciidocでドキュメント作成する際のアレコレ - Qiita
+https://qiita.com/tamikura@github/items/5d3f62dae55617ee42bb
+以前はmarkdownのファイルにしていた。
+Google Docsでやってたこともあった。
+最近はなんとなく Wiki に落ち着いてきてはいる。
+Gitbookも便利だとは思うし、asciidoc もよいとはおもうのだけど。
+実際に開発するメンバーとしてはどれが使いやすいんだろうなぁ。。。人それぞれだったりするしな。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudfront on mersy note</title>
+    <link>https://note.mersy418.com/tags/cloudfront.html</link>
+    <description>Recent content in Cloudfront on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2018 17:10:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/cloudfront/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github Pages のこのサイトをSSL対応した</title>
+      <link>https://note.mersy418.com/article/blog-githubpage-https.html</link>
+      <pubDate>Sun, 28 Jan 2018 17:10:16 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-githubpage-https.html</guid>
+      <description>今更だけれども。
+ CloudFrontを利用して独自ドメインのGitHub PagesをHTTPS化する - Qiita
+https://qiita.com/iogi/items/82618c1d56abba6b9337
+ Github Pagesでホスティングしつつ、CloudFrontを使ってサイトをSSL対応の独自ドメインにする - Qiita
+https://qiita.com/kechol/items/9609e1ab4a673e05b613
+  この辺の記事を参考にさせてもらってこのサイトをHTTPSにした。</description>
+    </item>
+    
+  </channel>
+</rss>

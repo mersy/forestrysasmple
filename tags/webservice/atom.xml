@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webservice on mersy note</title>
+    <link>https://note.mersy418.com/tags/webservice.html</link>
+    <description>Recent content in Webservice on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/webservice/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pageprooferというフィードバックサービス</title>
+      <link>https://note.mersy418.com/article/webservice-pageproofer.html</link>
+      <pubDate>Wed, 28 Feb 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/webservice-pageproofer.html</guid>
+      <description>そうそう、こういうサービス作ってみたいなと思ってたんだよねー、というのをたまたま見つけた。
+ 【すべてのWeb制作者に伝えたい】Webサイトのフィードバック・チェックツール Pageproofer | GrowGroup株式会社 名古屋・東京を拠点とするDTP・Webサイト(ホームページ)の制作会社
+https://grow-group.jp/archives/2498/
+Pageproofer - Visual Bug Tracker &amp;amp; Visual Feedback Tool
+https://pageproofer.com/
+ どっちかというと製作者とお客さんで利用するのが主目的になっていそうではあるけど。</description>
+    </item>
+    
+  </channel>
+</rss>

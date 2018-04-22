@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movabletype on mersy note</title>
+    <link>https://note.mersy418.com/tags/movabletype.html</link>
+    <description>Recent content in Movabletype on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2014 16:11:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/movabletype/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chrome Appsをつくってみる</title>
+      <link>https://note.mersy418.com/article/chromeapp.html</link>
+      <pubDate>Fri, 11 Jul 2014 16:11:50 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/chromeapp.html</guid>
+      <description>アプリをデバッグ アプリを右クリックでコンソールが開く
+scroll bar の表示 こんな感じで。
+html, body { overflow-y: visible; }  Chrome apps on Android and iOS Chrome appsをmobileアプリにするなんとか。</description>
+    </item>
+    
+    <item>
+      <title>Chrome Extensionをつくってみる</title>
+      <link>https://note.mersy418.com/article/chromeextension.html</link>
+      <pubDate>Tue, 24 Jun 2014 12:43:24 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/chromeextension.html</guid>
+      <description> 拡張をデバッグ 拡張をタブで開くためのURL
+ chrome-extension://&amp;lt;拡張のID&amp;gt;/popup.html
+ </description>
+    </item>
+    
+    <item>
+      <title>Data API で投稿画面を作ってみる</title>
+      <link>https://note.mersy418.com/article/quickpost.html</link>
+      <pubDate>Wed, 02 Apr 2014 09:15:39 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/quickpost.html</guid>
+      <description>fileの選択でカメラを使える様にする こんなかんじで実装
+&amp;lt;input type=&amp;quot;file&amp;quot; accept=&amp;quot;image/*;capture=camera&amp;quot; id=&amp;quot;entryImage&amp;quot; name=&amp;quot;entryImage&amp;quot; class=&amp;quot;form-control&amp;quot;/&amp;gt;  カメラで写真をとると落ちるのは本体がしょぼいからか？
+とりあえず、iOS Safariで確認。
+localStorageにデータを保存 DataAPIのPathとかをlocalStorageに保存する様にする
+function setlocalStorage() { var configDataAPIval = document.</description>
+    </item>
+    
+    <item>
+      <title>Data API で認証後にユーザー情報を取得する</title>
+      <link>https://note.mersy418.com/article/getuser.html</link>
+      <pubDate>Thu, 13 Mar 2014 21:44:31 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/getuser.html</guid>
+      <description>DataAPI で記事投稿のときとかは認証をはさみます。
+認証が通った後にユーザーの情報を使いたい場合があるでしょう。
+ライブラリでユーザー情報を使う部分は getUser ぽいのはなんとなく分かります。
+ getUser
+https://github.com/movabletype/mt-data-api-sdk-js/wiki/DataAPI-SDK-english-MT.DataAPI-Endpoint-method-getUser
+ これをみるとこんな感じのようなので、userIdのところにidを渡してあげます。
+api.getUser(userId, function(response) { if (response.error) { // Handle error return; } // Do stuff });  さて、idってどこに保存されてるんだろう？？とおもうわけですが。</description>
+    </item>
+    
+    <item>
+      <title>Data API memo</title>
+      <link>https://note.mersy418.com/article/dataapimemo.html</link>
+      <pubDate>Mon, 14 Oct 2013 08:30:00 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/dataapimemo.html</guid>
+      <description> 外部サイトから許可する DataAPICORSAllowOrigin 外部サイトからDataAPIをたたけるようにするためには、「DataAPICORSAllowOrigin」の指定がmt-configに必要
+ DataAPICORSAllowOrigin
+http://www.movabletype.jp/beta/60/dataapicorsalloworigin.html
+ 書き方はこんな感じ。
+DataAPICORSAllowOrigin http://www.example.com, http://beta.example.com  こんな感じでサイドバーに出せた。
+ mersy memo
+http://mersy.github.io/
+ </description>
+    </item>
+    
+    <item>
+      <title>MTMLのバージョン管理</title>
+      <link>https://note.mersy418.com/article/mtmlversioncontrol.html</link>
+      <pubDate>Fri, 11 Oct 2013 17:00:00 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/mtmlversioncontrol.html</guid>
+      <description>MTMLをローカルで編集して、MTに当てる作業を出来るだけ自動化する方法を考える。
+アップする先が開発環境以外もある場合があるだろうから、それらにも対応出来る仕組みを検討。
+管理画面から直接編集する場合もあるからそれにも対応出来るようにする。
+ローカルと開発サーバーで同期させる MTMLを結びつける方法
+ ファイルリンク
+ テーマ
+  theme と filelink theme のメリット  テンプレートの追加／削除を気にせず反映させられる
+  theme のデメリット  再適用をする際にテンプレートIDが変わる</description>
+    </item>
+    
+    <item>
+      <title>カテゴリアーカイブをData APIで出力</title>
+      <link>https://note.mersy418.com/article/dataapiforcategoryarchive.html</link>
+      <pubDate>Fri, 11 Oct 2013 11:15:00 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/dataapiforcategoryarchive.html</guid>
+      <description>カテゴリアーカイブをData APIで出す用にしてみた。これまでのセッションの物を参考に（コピペ）して。
+ travel カテゴリアーカイブ
+http://www.mersy418.com/category.html?label=travel
+ カテゴリでlistentryすることはできない？みたいなので、プラグインで拡張。
+プラグインの話はMTDDC Tokyo 2013 の時のセッション資料が役立った。
+  Data API と flexibleSearch、MTAppjQuery で広がるMT6の使い方  from bitpart</description>
+    </item>
+    
+  </channel>
+</rss>
