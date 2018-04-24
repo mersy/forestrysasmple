@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safari on mersy note</title>
+    <link>https://note.mersy418.com/tags/safari.html</link>
+    <description>Recent content in Safari on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Apr 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/safari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safariメインにしたら少しは軽くなったような？気がする</title>
+      <link>https://note.mersy418.com/article/blog-safari-main.html</link>
+      <pubDate>Sat, 07 Apr 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-safari-main.html</guid>
+      <description>Safari に諸々寄せたから？かだいぶ軽くなった気がする。
+ メインブラウザを Firefox Developer Editon から Safari に切り替えてみる | mersy note
+https://note.mersy418.com/article/blog-which-browser.html
+ 1Password の起動が早くなったというか引っかからなくなった気がする。
+んじゃ、Firefox とか Chrome でもいいのかなー、という気がするけどどうだろうな。</description>
+    </item>
+    
+    <item>
+      <title>メインブラウザを Firefox Developer Editon から Safari に切り替えてみる</title>
+      <link>https://note.mersy418.com/article/blog-which-browser.html</link>
+      <pubDate>Mon, 26 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-which-browser.html</guid>
+      <description>ここ最近の取り組みとして、起動するアプリを減らして、なるべくブラウザに寄せるようにして PC が重くならないように、、、というのを試してみたりしてる。
+使い方が悪いのかもしれないけど、すぐ Mac が重くなってしまうんだよなぁ。。。
+メール周りは諸般の事情で、 Google アカウント以外も管理する必要があったので、 MailPlane から Rambox に変更して使ってきていた。
+ Ramboxを使い始めてみた
+https://note.mersy418.com/article/use-rambox.html
+ ただ、若干メモリ食ってる感があったので、メインブラウザ（Firefox Developer Edition）に Gmail とかを開くようにしてピン留して試したりしていた。</description>
+    </item>
+    
+  </channel>
+</rss>

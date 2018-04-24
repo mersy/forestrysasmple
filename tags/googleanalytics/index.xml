@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Googleanalytics on mersy note</title>
+    <link>https://note.mersy418.com/tags/googleanalytics.html</link>
+    <description>Recent content in Googleanalytics on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2017 08:32:18 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/googleanalytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ローカルに保存したHTMLファイルのPVをGoogle Analyticsで計測するための設定</title>
+      <link>https://note.mersy418.com/article/localfile-googleanalytics.html</link>
+      <pubDate>Fri, 17 Nov 2017 08:32:18 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/localfile-googleanalytics.html</guid>
+      <description>HTMLファイルをローカルに保存してもらい、それをひらいたあとのイベント等を計測しようと思って色々調べたときのメモ。
+https://stackoverflow.com/questions/3591847/google-analytics-from-a-file-url
+https://stackoverflow.com/questions/22761200/using-google-analytics-without-a-sever-or-localhost
+この辺を見る限り
+ga(&#39;create&#39;, &#39;UA-xxxxxxxx-x&#39;,{&#39;cookieDomain&#39;: &#39;none&#39;}); ga(&#39;set&#39;, &#39;checkProtocolTask&#39;, null); ga(&#39;set&#39;, &#39;checkStorageTask&#39;, null); ga(&#39;set&#39;, &#39;historyImportTask&#39;, null); ga(&#39;send&#39;, &#39;pageview&#39;);  という感じで書けば良さそう。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cache on mersy note</title>
+    <link>https://note.mersy418.com/tags/cache.html</link>
+    <description>Recent content in Cache on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2017 04:28:15 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/cache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fastly memo</title>
+      <link>https://note.mersy418.com/article/fastly.html</link>
+      <pubDate>Fri, 29 Sep 2017 04:28:15 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/fastly.html</guid>
+      <description>Fastly
+https://www.fastly.com/
+キャッシュの設定がそれぞれ変更される都度version管理されている
+VCL（Varnish Configuration Language）というのに記載する。
+sub vcl_recv { /* unset state tracking header to avoid client sending it */ if (req.</description>
+    </item>
+    
+  </channel>
+</rss>

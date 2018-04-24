@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Direction on mersy note</title>
+    <link>https://note.mersy418.com/tags/direction.html</link>
+    <description>Recent content in Direction on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Apr 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/direction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>全部という言葉の曖昧さ</title>
+      <link>https://note.mersy418.com/article/blog-whats-all.html</link>
+      <pubDate>Tue, 17 Apr 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-whats-all.html</guid>
+      <description>自分でも使ってしまって反省することがあるのだけれども。
+「全部」とか「全て」、、、という言葉を使っての指示・連絡は大体にして伝わらないというか、認識ずれが起こる根源だと思う。
+使う側は「全て対応した」「全てが対象」という感じで言いやすいところはあるのだけれども。
+そこは頭の中で理解・イメージしてることが「全て」一致してれば問題ないとは思うのだけど。
+なかなかそういう状況になる場面って少ないんじゃないかな、と。</description>
+    </item>
+    
+    <item>
+      <title>チケット管理のルール、チケットの掃除屋さん</title>
+      <link>https://note.mersy418.com/article/blog-issue-rule.html</link>
+      <pubDate>Mon, 16 Apr 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-issue-rule.html</guid>
+      <description>cremaさんがセミナー？で話されてたスライドを拝見した。
+ フリーランスが出会う“現場のタスク管理法あれこれ”
+https://www.slideshare.net/cremacrema/ss-93090340
+ やっぱチケットのクローズルールとか整理とかしないとだよなー。
+やろうやろうやろう。。。。
+お客さんもどういう風に使うのかある程度指針があったほうがいいんだろうしな。</description>
+    </item>
+    
+    <item>
+      <title>「モジュール一覧」でイメージが伝わっているんだろうか？</title>
+      <link>https://note.mersy418.com/article/blog-word-module.html</link>
+      <pubDate>Mon, 26 Feb 2018 16:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-word-module.html</guid>
+      <description>スタイルガイド的なものも作りつつ、モジュール一覧を作ってワイヤーを決めて必要なページのデザインを起こして実装を進めます。という感じで話をすることがあるのだけれども。
+それのイメージはお客さんに伝わっているのか？というのが時々気になることがある。
+少し想像力を働かせないと、、、というところがあるし、そもそも制作会社とかによっても伝えたいと思ってる内容が違う気もするし。
+まぁ、そういったものもプロトタイプツールを使うことでもう少しイメージ伝わりやすくなるんだろうとは思うのだけど。
+紙に出力したワイヤーだけだと伝わってない可能性はあるんだろうなぁ。
+この辺はディレクションする側だけでなく、チームとしての制作の流れも関係してきそうだから普段からどうやったらよく進められるかとか議論して改善したり、新しいことを取り込んでいけるようになるといいんだろうな。</description>
+    </item>
+    
+    <item>
+      <title>一応個人的に気をつけてる（つもりな）こと</title>
+      <link>https://note.mersy418.com/article/blog-ux-for-member.html</link>
+      <pubDate>Sun, 25 Feb 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-ux-for-member.html</guid>
+      <description>UXの社内勉強会で私が伝えたかった2つのこと｜Tsutomu Sogitani｜note
+https://note.mu/sogitani/n/na77e71d288cd
+を読んでいて、サンプルとして、以下のような話が出ていた。
+ Backlogを使っているあるプロジェクトでは、BacklogにPDF化した議事録をアップして連絡していたが、受け手の体験を考えるとこれは適切なやり方だろうか。
+BacklogにPDF化した議事録をアップすると、
+ Backlogからメールが来る
+ Backlogにアクセスする
+ PDFをダウンロードする
+ Adobe Readerを立ち上げる
+ 議事録の内容が見れる
+  という5つのプロセスが発生する。しかし、PDF化せずにテキストでそのままアップすればどうだろうか。</description>
+    </item>
+    
+  </channel>
+</rss>

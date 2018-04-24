@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploy on mersy note</title>
+    <link>https://note.mersy418.com/tags/deploy.html</link>
+    <description>Recent content in Deploy on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2017 21:57:13 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeployHQ のユーザの種類メモ</title>
+      <link>https://note.mersy418.com/article/deployhq-user.html</link>
+      <pubDate>Tue, 03 Oct 2017 21:57:13 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/deployhq-user.html</guid>
+      <description>DeployHQ のユーザの種類メモ
+ Account administration - access to all aspects of the account including billing
+User management - access to all projects and user management</description>
+    </item>
+    
+  </channel>
+</rss>

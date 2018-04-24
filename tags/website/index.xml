@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on mersy note</title>
+    <link>https://note.mersy418.com/tags/website.html</link>
+    <description>Recent content in Website on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 07:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Webサイトを作ったなら保守・運用もセットで考えたいところ</title>
+      <link>https://note.mersy418.com/article/blog-operations.html</link>
+      <pubDate>Thu, 22 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-operations.html</guid>
+      <description>日本郵便がハード保守契約を全面見直し、ITベンダーの反発は必至 | 日経 xTECH（クロステック）
+http://tech.nikkeibp.co.jp/it/atcl/column/14/346926/012701285/
+ 保守にレベルがある話が書かれてあるのだけれども。
+これってウェブサイトにも似たような話があるような気がしていて。
+落ちたら困るようなサイトであれば落ちてないかを 24&amp;frasl;365 で監視した方がいいだろうし、何かあった時にそれに備える必要があるとは思う。
+優先順位もつける必要はあるだろうけど、どこまでがサービスとして許容できる範囲で、どこからがNGなのか、を明確にした上で、どこまでを監視しして、保守する、そのための体制を作るのか？ということを考えておかないといけないんじゃないのかしら？
+検収ってなんだろう？っていう話にもなってくるところではあるが、そういうサイトを運用するつもりなのであれば、納品とかそんなこと言ってられない気もするし、そこからがスタートなわけで。
+そこを踏まえて、開発から運用までを考えて構築していくのか？運用していくのか？
+制作をするにしても、もう少し広い目で見ていく必要があるんだろうなー。
+と、以前からこのエントリをメモ的に書いておいて、今日公開しようとしてたところ、昨晩はそんな感じで障害対応があったりなんだり。。。
+そんなもんですよね。</description>
+    </item>
+    
+    <item>
+      <title>スモールスタートで運用しながら調整・成長していく</title>
+      <link>https://note.mersy418.com/article/website-operation.html</link>
+      <pubDate>Thu, 01 Mar 2018 07:00:00 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/website-operation.html</guid>
+      <description>SAP推しだった親会社を説得し、kintoneで業務改善した会社の話 （アスキー） - Yahoo!ニュース
+https://headlines.yahoo.co.jp/hl?a=20180214-00000005-ascii-sci
+ 運用しないと、触らないと、見えてこないこともあるわけで。
+小さくスタートはスタートするからこそ整って来ることもあるし、判断材料も出て来るわけで。
+100%完璧に全てを最初に洗い出すことは難しいわけだし、それができないという前提でどこまでやるかを決め、その上で運用しながら改善なり改修をしていく。
+そういったことの繰り返しで、Webサイトもビジネスの一翼を担うのであれば同じような位置付けで取り組んでいかないと意味のないものになってしまう。
+作る側も依頼する側も作って終わりだとは思ってないだろうし、そこからがスタートと理解してるからこそ、どのように運用、保守をしてサイトを育てビジネスに繋げていくかを考えるという前提がないとまずいんじゃないだろうか？
+コンテンツを蓄えてそれをどのように見せていくか。
+コンテンツが蓄えられたからこそ、それをどのように展開していくか？を考えられる。
+コンテンツを蓄えるなかでこうしたいという要望や、ここが使いづらいという改善要望も上がって来る。
+ユーザのFBやアクセス数から見えてくることもあるかもしれない。
+そういったものを繰り返しながらより良いものになっていくんじゃないだろうか？
+そうなって来ると内部で人を抱えて作る方がいいのか？外部と連携して作るのがいいのか？という話にも繋がるんだろうな、とは思う。
+Webサイト使ってビジネスするならそのあたりを考えておかないとビジネスも成功しないんじゃないのかなぁ。
+CMSを使ったWebサイトを提供する側としても最初の時点でしっかりとしたものを提供はしていくけど、そういった変化にも柔軟に対応する必要があることを忘れないようしないとなぁと思うわけです。</description>
+    </item>
+    
+  </channel>
+</rss>

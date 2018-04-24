@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jira on mersy note</title>
+    <link>https://note.mersy418.com/tags/jira.html</link>
+    <description>Recent content in Jira on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2018 11:16:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/jira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>どのプロジェクト（タスク）管理ツールを使うか問題2017</title>
+      <link>https://note.mersy418.com/article/blog-20180120project.html</link>
+      <pubDate>Sat, 20 Jan 2018 11:16:24 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/blog-20180120project.html</guid>
+      <description>ちょうど昨年後半 bit part でもredmineからの乗り換えを考えてた。
+FablicにJIRAを導入をしようとしたけど諦めた話 - inFablic | Fablic, inc. Developer&amp;rsquo;s Blog.
+http://in.fablic.co.jp/entry/jira-not-adopted
+ gitlab
+ wrike
+ taskworld
+ backlog</description>
+    </item>
+    
+  </channel>
+</rss>

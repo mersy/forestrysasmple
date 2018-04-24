@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powercms on mersy note</title>
+    <link>https://note.mersy418.com/tags/powercms.html</link>
+    <description>Recent content in Powercms on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Apr 2014 19:00:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/powercms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerCMS 相談会</title>
+      <link>https://note.mersy418.com/article/powercms.html</link>
+      <pubDate>Thu, 03 Apr 2014 19:00:44 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/powercms.html</guid>
+      <description>PowerCMS設計・構築相談会というのがあるというので、参加させてもらった。
+ [セミナー情報]【東京開催】PowerCMS設計・構築相談会を開催します。 (アルファサード - アクセシビリティ, CMS, Movable Type サイト構築のリーディングカンパニー)
+http://alfasado.net/contents/news/201403281538.html
+ なにか相談したいことがあったわけじゃなかったのだけど申し込みさせてもらって、聞いてきた。
+結果としては進行中案件で気になってることとか色々おしえてもらっていってほんとよかった！
+PowerCMSを使った案件をやらせてもらうことはあるけど、大体決まった機能しかつかってなくても，その中でもまだまだ知らないことたくさん・・・
+勉強せにゃ。
+import をtoolsで 管理画面から記事とかのimportをしようとするときにエラーになる場合はjobをつかってやってみる。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drupal on mersy note</title>
+    <link>https://note.mersy418.com/tags/drupal.html</link>
+    <description>Recent content in Drupal on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2017 20:06:27 +0900</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LightsailでDrupalを立ち上げる</title>
+      <link>https://note.mersy418.com/article/drupal-lightsail.html</link>
+      <pubDate>Sat, 23 Dec 2017 20:06:27 +0900</pubDate>
+      
+      <guid>https://note.mersy418.com/article/drupal-lightsail.html</guid>
+      <description>lightsailでDrupalを立ち上げる Drupal の勉強をしてみようとおもっていたのと、Lightsail を使ってみたことがなかったのでこの機会に使ってみる。
+https://amazonlightsail.com/ja/
+Drupal が用意されているのでそれを使うだけで良さそうなので。
+Drupal を選択するとこんな感じになる。
+ここから開くと
+みたいな感じに。
+Public IP にアクセスすれば Drupal のデフォルト画面が見れる。
+ログイン情報がわかりにくいのだけれど、 Connecting using SSH でつないで、以下で確認できた。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epub on mersy note</title>
+    <link>https://note.mersy418.com/tags/epub.html</link>
+    <description>Recent content in Epub on mersy note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 May 2014 16:06:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://note.mersy418.com/tags/epub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VMWare上でMarkdownをePubなどに変換</title>
+      <link>https://note.mersy418.com/article/publish.html</link>
+      <pubDate>Fri, 02 May 2014 16:06:37 +0000</pubDate>
+      
+      <guid>https://note.mersy418.com/article/publish.html</guid>
+      <description>ドキュメントなどの作成をできるだけ自動化したいので、まずは手動でできる環境を整えるところから。
+MTでドキュメント書きつつ、そこから各種ファイルを作るところまでが目標。
+Pandoc VMWare 上の CentOS に Pandocをインストールする MacにPandocを入れるのはインストーラがあるからだいぶ簡単だけど、CentOSにいれるのはなかなか大変。
+ Pandoc - Installing
+http://johnmacfarlane.net/pandoc/installing.html
+ よくわかってなかったけど、必要そうなモノ
+ haskell-platform
+ cabal</description>
+    </item>
+    
+  </channel>
+</rss>
